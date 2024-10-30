@@ -8,7 +8,7 @@
 
 /* Begin PBXFileReference section */
 		950877002CD1DF8100C31D71 /* Calculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Calculator.swift; sourceTree = "<group>"; };
-		950877012CD1E28600C31D71 /* CalculatorPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = CalculatorPlayground.playground; sourceTree = "<group>"; };
+		950877012CD1E28600C31D71 /* CalculatorPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = CalculatorPlayground.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
