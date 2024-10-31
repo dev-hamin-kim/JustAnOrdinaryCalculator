@@ -88,7 +88,8 @@ class Divider: Operator {
         self.valueB = valueB
     }
     
-    func operate() -> Double {
+    func operate() -> Double? {
+        guard valueB != 0 else { return nil }
         valueA / valueB
     }
 }
